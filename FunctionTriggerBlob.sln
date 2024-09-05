@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionTriggerBlob", "FunctionTriggerBlob\FunctionTriggerBlob.csproj", "{04D6EBAF-B97E-43EC-909A-2909AEC1261A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04D6EBAF-B97E-43EC-909A-2909AEC1261A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04D6EBAF-B97E-43EC-909A-2909AEC1261A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04D6EBAF-B97E-43EC-909A-2909AEC1261A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04D6EBAF-B97E-43EC-909A-2909AEC1261A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {649BF889-66E2-47E5-962F-AD349C608BD4}
+	EndGlobalSection
+EndGlobal
